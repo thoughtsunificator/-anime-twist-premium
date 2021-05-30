@@ -1,0 +1,18 @@
+{
+	"name": "anime-twist-premium",
+	"version": "1.0.0",
+	"description": "Anime Twist Premium is a userscript that allows you to add anime to a watch list so that you can easily retrieve them later.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thoughtsunificator/anime-twist-premium.git"
+	},
+	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/thoughtsunificator/anime-twist-premium/issues"
+	},
+	"devDependencies": {
+		"eslint": "^7.0.0"
+	},
+	"homepage": "https://github.com/thoughtsunificator/anime-twist-premium#readme"
+}
