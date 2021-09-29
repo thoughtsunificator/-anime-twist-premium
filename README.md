@@ -15,4 +15,4 @@ See [anime-twist-premium-extension](https://github.com/thoughtsunificator/anime-
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 - [Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)
 
-Finally, [install](https://openuserjs.org/scripts/thoughtsunificator/anime-twist-premium) the userscript from OpenUserJS.
+Finally, [install](https://openuserjs.org/install/thoughtsunificator/anime-twist-premium.user.js) the userscript from OpenUserJS.
