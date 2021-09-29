@@ -1,0 +1,9 @@
+[submodule "lib/userinterface.js-paginator"]
+	path = lib/userinterface.js-paginator
+	url = https://github.com/thoughtsunificator/userinterface.js-paginator
+[submodule "lib/userinterface.js"]
+	path = lib/userinterface.js
+	url = https://github.com/thoughtsunificator/userinterface.js
+[submodule "lib/userinterface.js-collection"]
+	path = lib/userinterface.js-collection
+	url = https://github.com/thoughtsunificator/userinterface.js-collection
